@@ -1,6 +1,6 @@
 # BhashaBlend
 
-BhashaBlend is a user-friendly software designed for dubbing videos from English to various languages using advanced speech recognition and natural language processing (NLP) technologies. This project aims to enhance language accessibility and promote cultural inclusivity by enabling seamless audio-video synchronization and accurate translations.
+BhashaBlend is a user-friendly software designed for multilingual dubbing of videos from any language to various other languages using advanced speech recognition and natural language processing (NLP) technologies. This project aims to enhance language accessibility and promote cultural inclusivity by enabling seamless audio-video synchronization and accurate translations.
 
 ## Features
 
