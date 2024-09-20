@@ -27,3 +27,7 @@ The BhashaBlend software empowers content creators and media professionals to du
 1. [Machine Translation of English Videos to Indian Regional Languages using Open Innovation](https://www.researchgate.net/publication/338177583_Machine_Translation_of_English_Videos_to_Indian_Regional_Languages_using_Open_Innovation)
 2. [An Elementary Emulator Based on Speech-To-Text and Text-to-Speech Technologies for Educational Purposes](https://www.researchgate.net/publication/374785224_An_Elementary_Emulator_Based_on_Speech-To-Text_and_Text-to-Speech_Technologies_for_Educational_Purposes)
 3. [A Review of Machine Translation Techniques and Proposal to Automatic Translation of Videos](https://www.researchgate.net/publication/376186436_A_Review_of_Machine_Translation_Techniques_and_Proposal_to_Automatic_Translation_of_Videos)
+
+## Contributing
+
+Contributions are welcome! If you'd like to improve the project or add new features, feel free to fork the repository and create a pull request.
